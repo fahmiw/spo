@@ -46,7 +46,7 @@
 				<a href="forgetpw.html" style="margin-left:30px; font-size:13px;
 				font-family:Tahoma, Geneva, sans-serif;">Lupa Password</a>
 			</div><br /><br /><br /><br />
-			Belum mempunyai Akun?<a href ="SignUp.html" style="font-family:'Play', sans-serif";>&nbsp;Sign Up</a>
+			Belum mempunyai Akun?<a href ="SignUp.php" style="font-family:'Play', sans-serif";>&nbsp;Sign Up</a>
 			<br /><br />
 			<a href ="..\index.html" style="font-family:'Play', sans-serif";>&nbsp;Home</a>
 			
